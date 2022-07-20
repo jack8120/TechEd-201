@@ -14,7 +14,7 @@
   |  06      |                             |
 
 
-Covered in Session 1a
+## Covered in Session 1a
 
 - ### **How the web works**
       How technology and protocols behing the internet
