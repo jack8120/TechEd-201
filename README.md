@@ -16,8 +16,11 @@
 
 Covered in Session 1a
 
-- ### How the web works
+- ### *How the web works*
       How technology and protocols behing the internet
       
-- ### Website Design and Process
+- ### *Website Design and Process*
       Workflow for creating a webiste from project ideation to completed product
+      
+- ### *Javascript Basics*
+
