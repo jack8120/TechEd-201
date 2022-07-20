@@ -23,6 +23,7 @@ Covered in Session 1a
       Workflow for creating a webiste from project ideation to completed product
       
 - ### **Javascript Basics**
+      An introduction to how using javascript can bring your website to life
       
 - ### **Introduction to HTML** 
       An introduction to Hyper Text Markup Language    
