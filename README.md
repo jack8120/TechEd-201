@@ -2,7 +2,9 @@
 
 ### Information about each of the modules taken in the Teach Educators 102 coding bootcamp
 
-  | Module No | Title                       |
+
+
+  | Module No | link                      |
   |-----------|-----------------------------|
   |  01       | []()                        |
   |  02       |                             |
@@ -10,3 +12,10 @@
   |  04      | []()                        |
   |  05      |                             |
   |  06      |                             |
+
+
+Covered in Session 1a
+
+- ### How the web works
+      How technology and protocols behing the internet.
+- ###       
