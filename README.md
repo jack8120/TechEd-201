@@ -7,7 +7,7 @@
   | Module No | link                      |
   |-----------|-----------------------------|
   |  01       | []()                        |
-  |  02       |                             |
+  |  02       | [Class 02 Notes](https://github.com/jack8120/TechEd-201/blob/main/Class-02.md)                            |
   |  03       |                             |
   |  04      | []()                        |
   |  05      |                             |
