@@ -9,8 +9,8 @@
 # Lab 03
 
 **Q1**
-As a user, I would like to view a series of data related to the site owners interest so that the I can quickly view more information about them.
-Create a “Top Ten” at the bottom of your HTML page as an ordered list in HTML. 
+*As a user, I would like to view a series of data related to the site owners interest so that the I can quickly view more information about them.
+Create a “Top Ten” at the bottom of your HTML page as an ordered list in HTML.*
 
   Added "Top ten favourite guitar solos" as an ordered list at bottom of html page. as e.g. below but for ten items.
   
@@ -24,7 +24,7 @@ Create a “Top Ten” at the bottom of your HTML page as an ordered list in HTM
    ```
 
 
-Convert your work experience and education summary into an unordered list using HTML.
+*Convert your work experience and education summary into an unordered list using HTML.*
 
 Education summary was aleady an <ul> so converted work experience paragraph into an <ul> by dividing paragraph into sentences and displaying as a list. 
   
@@ -41,9 +41,10 @@ Added a prompt requesting a numerical input - "Guess my lucky number between 1 -
         let favnumguess = parseInt(favnum);
   ```
   
-Indicates through an alert if the guess is “too high” or “too low”.
+*Indicates through an alert if the guess is “too high” or “too low”.*
   
 
   
-It should give the user exactly four opportunities to get the correct answer.
-After all attempts have been exhausted, tell the user the correct answer. Consider using a loop of some sort.
+*It should give the user exactly four opportunities to get the correct answer.*
+  
+*After all attempts have been exhausted, tell the user the correct answer. Consider using a loop of some sort.*
