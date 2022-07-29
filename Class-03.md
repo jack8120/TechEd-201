@@ -15,7 +15,7 @@ Create a “Top Ten” at the bottom of your HTML page as an ordered list in HTM
   Added "Top ten favourite guitar solos" as an ordered list at ottom of html page. 
   
   ```
-  { <ol>
+   <ol>
        <li>All Along the Watchtower - Jimi Hendirx</li>
        <li>Beat it - Eddie Van Halen (Michael Jackson)</li>
        <li>Another Brick in the Wall - David Gilmore</li>
@@ -27,7 +27,7 @@ Create a “Top Ten” at the bottom of your HTML page as an ordered list in HTM
        <li>Nadia - Jeff Beck</li>
        <li>Altitudes - Jason Becker</li>
    </ol> 
-   }
+   
    ```
 
 
