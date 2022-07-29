@@ -30,8 +30,8 @@ Education summary was aleady an <ul> so converted work experience paragraph into
   
   
 **Q2**  
-As a user, I would like to be guided to an answer through a series of feedback responses so that I can learn more about the site owner.
-Add a 6th question to the guessing game that takes in a numeric input by prompting the user to guess a number.
+*As a user, I would like to be guided to an answer through a series of feedback responses so that I can learn more about the site owner.
+Add a 6th question to the guessing game that takes in a numeric input by prompting the user to guess a number.*
   
 Added a prompt requesting a numerical input - "Guess my lucky number between 1 - 100" and presented as a button. Input box in prompt outputs a string so 
   we used parseInt to convert the string input into an integer. 
@@ -42,5 +42,8 @@ Added a prompt requesting a numerical input - "Guess my lucky number between 1 -
   ```
   
 Indicates through an alert if the guess is “too high” or “too low”.
+  
+
+  
 It should give the user exactly four opportunities to get the correct answer.
 After all attempts have been exhausted, tell the user the correct answer. Consider using a loop of some sort.
