@@ -26,22 +26,39 @@ Create a “Top Ten” at the bottom of your HTML page as an ordered list in HTM
 
 *Convert your work experience and education summary into an unordered list using HTML.*
 
-Education summary was aleady an <ul> so converted work experience paragraph into an <ul> by dividing paragraph into sentences and displaying as a list. 
+   Education summary was aleady an <ul> so converted work experience paragraph into an <ul> by dividing paragraph into sentences and displaying as a list. 
   
   
 **Q2**  
 *As a user, I would like to be guided to an answer through a series of feedback responses so that I can learn more about the site owner.
 Add a 6th question to the guessing game that takes in a numeric input by prompting the user to guess a number.*
   
-Added a prompt requesting a numerical input - "Guess my lucky number between 1 - 100" and presented as a button. Input box in prompt outputs a string so 
-  we used parseInt to convert the string input into an integer. 
+   Added a prompt requesting a numerical input - "Guess my lucky number between 1 - 100" and presented as a button. 
+   Input box in prompt outputs a string so we used parseInt to convert the string input into an integer. 
   
-  ```
-  let favnum = prompt("Enter a number between 1-100");
-        let favnumguess = parseInt(favnum);
-  ```
+     ```
+     let favnum = prompt("Enter a number between 1-100");
+           let favnumguess = parseInt(favnum);
+     ```
   
 *Indicates through an alert if the guess is “too high” or “too low”.*
+  
+  Assigned lucky nimber to 'answer' variable. Alerts triggered using if statement conditions. 
+  
+  ``` 
+           let answer = 67;
+    
+           if(favnumguess === answer){
+            alert("WINNER !!");
+           }   
+
+           else if(favnumguess > answer){
+            alert("Too High !");
+           }
+
+           else{
+           alert("Too Low !");}
+  ```
   
 
   
