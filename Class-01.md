@@ -11,7 +11,7 @@ Hot the web works - what happens when you search for something on a browser?
 
 *Compose a short poem describing how HTTP sends data between computers.*
 
-## The bitter after taste of progress
+## The after taste of progress
 
 *peruses the menu... 
 "I'll have the twitter website please" the waiter (TCP/IP) rolls his eyes  
@@ -95,9 +95,35 @@ Potential sources for the article element:
 - News story
 - Comment  
   
-  
-  
-What Elements does a “typical” website include?
+    
+*What Elements does a “typical” website include?*
+
+HTML elements of a typical webpage;
+```
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>My test page</title>
+  </head>
+  <body>
+    <p>This is my page</p>
+  </body>
+</html> 
+```
+`<!DOCTYPE html>:` The doctype is a historical artifact that needs to be included for everything else to work right.   
+
+`<html></html>:` The `<html>` element. This element wraps all the content on the page. It is sometimes known as the root element.
+
+`<head></head>:` The `<head>` element. This element acts as a container for everything you want to include on the HTML page including keywords and a page description that would appear in search results, CSS to style content, character set declarations.
+
+`<meta charset="utf-8">:` The `<meta>` element. This element represents metadata that cannot be represented by other HTML meta-related elements, like `<base>, <link>, <script>, <style> or <title>.` The charset attributes sets the character set for your document to UTF-8, which includes most characters from the vast majority of human written languages. 
+
+`<title></title>:` The `<title>` element. This sets the title of the page, which is the title that appears in the browser tab the page is loaded in. The page title is also used to describe the page when it is bookmarked.
+
+`<body></body>:` The `<body>` element. This contains all the content that displays on the page, including text, images, videos, games, playable audio tracks, or whatever else.
+
+
 How does metadata influence Search Engine Optimization?
 How is the <meta> HTML tag used when specifying metadata?
 Miscellaneous
@@ -115,3 +141,4 @@ What is JavaScript?
 Describe 2 things that require JavaScript in the Browser?
 How can you add JavaScript to an HTML document?
 If you have any questions or comments from the readings, record them in your Reading Notes!
+  
