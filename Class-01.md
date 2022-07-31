@@ -65,6 +65,8 @@ An attribute should have:
 
 *Describe the Anatomy of an HTMl element.*
 
+![HTML Element Anatomy]()
+
 
 
 What is the Difference between <article> and <section> element tags?
