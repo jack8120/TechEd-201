@@ -13,12 +13,12 @@ Hot the web works - what happens when you search for something on a browser?
 
 ## The bitter after taste of progress
 
-*"He peruses the menu" 
+*peruses the menu... 
 "I'll have the twitter website please" the waiter (TCP/IP) rolls his eyes  
 "That order comes with either existential threat or cats?" he says  
 "I'll take the cats"  
 "and what pronouns would you like with that?"  
-The order is assigned a number and sent to the kitchen where the "chef" (DNS) sneers at the choices made and barks orders at the kitchen staff  
+The order is assigned a number and sent to the kitchen, the "chef" (DNS) sneers at the choices made and barks orders at the kitchen staff  
 piece by piece the ingredients are found and assembled by HTML, CSS Deals with the presentation,   
 "SERVICE" (200 OK) Screams the chef.   
 the waiter delivers the order.  
@@ -78,7 +78,22 @@ The element is the opening tag, followed by content, followed by the closing tag
 
 *What is the Difference between <article> and <section> element tags?*
   
+> The <section> tag:
+
+The section tag defines sections in a document, such as chapters, headers, footers, or any other sections of the document.  
   
+> The <article> tag:
+
+The article tag specifies independent, self-contained content.
+
+An article should make sense on its own and it should be possible to distribute it independently from the rest of the site.
+
+Potential sources for the article element:
+
+- Forum post
+- Blog post
+- News story
+- Comment  
   
   
   
