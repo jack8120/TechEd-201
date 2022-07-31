@@ -78,11 +78,11 @@ The element is the opening tag, followed by content, followed by the closing tag
 
 *What is the Difference between <article> and <section> element tags?*
   
-> The <section> tag:
-
+` The <section> tag: `
+  
 The section tag defines sections in a document, such as chapters, headers, footers, or any other sections of the document.  
   
-> The <article> tag:
+` The <article> tag: `
 
 The article tag specifies independent, self-contained content.
 
