@@ -67,9 +67,21 @@ An attribute should have:
 
 ![HTML Element Anatomy](https://github.com/jack8120/TechEd-201/blob/main/htmlElementAnat.png)
 
+The anatomy of our element is:
+
+- The opening tag: This consists of the name of the element (in this example, p for paragraph), wrapped in opening and closing angle brackets. This opening tag marks where the element begins or starts to take effect. In this example, it precedes the start of the paragraph text.
+- The content: This is the content of the element. In this example, it is the paragraph text.
+- The closing tag: This is the same as the opening tag, except that it includes a forward slash before the element name. This marks where the element ends. Failing to include a closing tag is a common beginner error that can produce peculiar results.  
+
+The element is the opening tag, followed by content, followed by the closing tag.
 
 
-What is the Difference between <article> and <section> element tags?
+*What is the Difference between <article> and <section> element tags?*
+  
+  
+  
+  
+  
 What Elements does a “typical” website include?
 How does metadata influence Search Engine Optimization?
 How is the <meta> HTML tag used when specifying metadata?
