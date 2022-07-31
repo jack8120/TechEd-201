@@ -76,7 +76,7 @@ The anatomy of our element is:
 The element is the opening tag, followed by content, followed by the closing tag.
 
 
-*What is the Difference between <article> and <section> element tags?*
+*What is the Difference between `<article>` and `<section>` element tags?*
   
 ` The <section> tag: `
   
