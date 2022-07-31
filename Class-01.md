@@ -9,36 +9,64 @@ Hot the web works - what happens when you search for something on a browser?
 [Javascript Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 
 
-Compose a short poem describing how HTTP sends data between computers.
+*Compose a short poem describing how HTTP sends data between computers.*
 
-## The bitter taste of progress
+## The bitter after taste of progress
 
-*"He Peruses the menu" 
-"Ill have the twitter website please" the waiter (TCP/IP) rolls his eyes  
+*"He peruses the menu" 
+"I'll have the twitter website please" the waiter (TCP/IP) rolls his eyes  
 "That order comes with either existential threat or cats?" he says  
 "I'll take the cats"  
 "and what pronouns would you like with that?"  
 The order is assigned a number and sent to the kitchen where the "chef" (DNS) sneers at the choices made and barks orders at the kitchen staff  
 piece by piece the ingredients are found and assembled by HTML, CSS Deals with the presentation,   
 "SERVICE" (200 OK) Screams the chef.   
-you choose your condements and begin to interact with your food (JS)*  
+the waiter delivers the order.  
+condiments are chosen, temperatures are tested (JS) and content is consumed.*  
+
+
+*Describe how HTML, CSS, and JS files are “parsed” in the browser.*
+
+HTML is parsed first so the browser can find any links or script tags calling external style sheets and Javascript files from the server. 
+Browser generates...
+  - In Memory DOM tree is generated 
+  - In Memory CSSOM tree is generated 
+
+Compiles and executes parsed javascript. A visaul representatio of he site is displayed on the screen. 
+
+*How can you find images to add to a Website?*
+
+Search using Google images. be aware of copywrite restrictions. 
+
+*How do you create a String vs a Number in JavaScript?*
+
+A string has quotation marks around it a number does not. 
+
+*What is a Variable and why are they important in JavaScript?*
+
+A variable is a container which can be assigned a value using let or const. (var was used until 2015 but is now defunct)  
+These values can then be called for use in other parts of teh program such as functions.
 
 
 
+# Introduction to HTML
 
 
-Describe how HTML, CSS, and JS files are “parsed” in the browser.
-How can you find images to add to a Website?
-How do you create a String vs a Number in JavaScript?
-What is a Variable and why are they important in JavaScript?
-Introduction to HTML
+*What is an HTML attribute?*
 
-Read the beginning of Getting Started with HTML. Start from the beginning and read through section “Anatomy of an HTML document”.
-HTML Document Structure.
-Metadata in HTML.
+An attribute contains extra information that will not appear in the content but will effect it in some way.  
+e.g. a class attribute can be used to apply styling to an element. 
 
-What is an HTML attribute?
-Describe the Anatomy of an HTMl element.
+An attribute should have:
+
+- A space between it and the element name. (For an element with more than one attribute, the attributes should be separated by spaces too.)
+- The attribute name, followed by an equal sign.
+- An attribute value, wrapped with opening and closing quote marks.
+
+*Describe the Anatomy of an HTMl element.*
+
+
+
 What is the Difference between <article> and <section> element tags?
 What Elements does a “typical” website include?
 How does metadata influence Search Engine Optimization?
