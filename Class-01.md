@@ -12,16 +12,16 @@ Hot the web works - what happens when you search for something on a browser?
 Compose a short poem describing how HTTP sends data between computers.
 
 ## The bitter taste of progress
-••
-"He Peruses the menu"
+
+*"He Peruses the menu"
 "Ill have the twitter website please" the waiter (TCP/IP) rolls his eyes
 "That order comes with either existential threat or cats?" he says
 "I'll take the cats"
-"and what pronouns would you like with that?
+"and what pronouns would you like with that?"
 The order is assigned a number and sent to the kitchen where the "chef" (DNS) sneers at the choices made and barks orders at the kitchen staff.
 piece by piece the ingredients are found and assembled by HTML, CSS Deals with the presentation, 
 "SERVICE" (200 OK) Screams the chef. 
-you choose your condements and begin to interact with your food (JS) ••
+you choose your condements and begin to interact with your food (JS)*
 
 
 
