@@ -65,7 +65,7 @@ An attribute should have:
 
 *Describe the Anatomy of an HTMl element.*
 
-![HTML Element Anatomy]()
+![HTML Element Anatomy](https://github.com/jack8120/TechEd-201/blob/main/htmlElementAnat.png)
 
 
 
