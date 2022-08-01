@@ -125,6 +125,9 @@ HTML elements of a typical webpage;
 
 
 How does metadata influence Search Engine Optimization?
+
+
+
 How is the <meta> HTML tag used when specifying metadata?
 Miscellaneous
 
