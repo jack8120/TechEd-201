@@ -22,10 +22,17 @@ Semantic elements carry predefined meaning, function or apearence that help orga
 There are 6 levels of heading H1 to H6 - to represent main headings (H1) sub headings and sub-sub headings etc. 
 
 **What are some uses for the `<sup> and <sub>` elements?**
+
+
   
   
 **When using the `<abbr>` element, what attribute must be added to provide the full expansion of the term?**
 
+The title attribute must be added.
 
+```
+<p>We use <abbr>HTML</abbr>, Hypertext Markup Language, to structure our web documents.</p>
 
+<p>I think <abbr title="Reverend">Rev.</abbr> Green did it in the kitchen with the chainsaw.</p>
+```
 
