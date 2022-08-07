@@ -36,3 +36,84 @@ The title attribute must be added.
 <p>I think <abbr title="Reverend">Rev.</abbr> Green did it in the kitchen with the chainsaw.</p>
 ```
 
+#Learn CSS
+
+**What are ways we can apply CSS to our HTML?**
+
+CSS can be applies in 3 ways;
+
+  *inline* - means to add the css to the element with the html being effected. This is only really used for small examples and should be avoided.
+  
+  An *Internal* style sheet is applieed inside a style tag in the head of the html document as seen below. Can be useful for adding to css while using 
+  CMS and are blocked from modifying the external css files. 
+  
+  ```
+   <head>
+    <meta charset="utf-8">
+    <title>My CSS experiment</title>
+    <style>
+      h1 {
+        color: blue;
+        background-color: yellow;
+        border: 1px solid black;
+      }
+
+      p {
+        color: red;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Hello World!</h1>
+  ```
+  
+  An *External* style sheet is the best practice approach to applying CSS. this keeps the CSS all together in a file seperate to the html making it easier to read and edit. 
+  ```
+   <head>
+    <meta charset="utf-8">
+    <title>My CSS experiment</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <h1>Hello World!</h1>
+  ```
+
+**Review the block of code below and answer the following questions:**
+
+**What is representing the selector?**
+  The H2
+**Which components are the CSS declarations?**
+  The key value pairs - color:black; and padding: 5px;
+**Which components are considered properties?**
+  color and padding
+ ```
+ h2 {
+     color: black;
+     padding: 5px;
+   }
+```
+
+#Learn JavaScript
+
+**What data type is a sequence of text enclosed in single quote marks?**
+
+A string
+
+**List 4 types of JavaScript operators.**
+
+plus + 
+minus - 
+Modulus %
+assignment =
+
+**Describe a real world Problem you could solve with a Function.**
+
+
+
+**Making Decisions In Your Code – Conditionals.**
+
+**An if statement checks a __ and if it evaluates to ___, then the code block will execute.**
+**What is the use of an else if?**
+**List 3 different types of comparison operators.**
+**What is the difference between the logical operator && and ||?**
+
