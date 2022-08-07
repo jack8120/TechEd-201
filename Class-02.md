@@ -108,12 +108,23 @@ assignment =
 
 **Describe a real world Problem you could solve with a Function.**
 
-
+simple maths. working out change / shop till.
 
 **Making Decisions In Your Code – Conditionals.**
 
-**An if statement checks a __ and if it evaluates to ___, then the code block will execute.**
+**An if statement checks a *condition* and if it evaluates to *true*, then the code block will execute.**
+
 **What is the use of an else if?**
+  to give the computer instructions on what to do if and if statement is not true.
+
 **List 3 different types of comparison operators.**
+
+== means equal to
+=== means equal value and equal type
+!= means not equal. 
+
 **What is the difference between the logical operator && and ||?**
 
+  Like logic gates in electronics. 
+  && is an AND operator.
+  || is an OR operator. 
