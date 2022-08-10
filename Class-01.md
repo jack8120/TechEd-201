@@ -27,6 +27,7 @@ the waiter delivers the order.
 condiments are chosen, temperatures are tested (JS) and content is consumed.* 
 
 
+
 **Describe how HTML, CSS, and JS files are “parsed” in the browser.**
 
 HTML is parsed first so the browser can find any links or script tags calling external style sheets and Javascript files from the server. 
