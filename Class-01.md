@@ -24,10 +24,10 @@ The order is assigned a number and sent to the kitchen, the "chef" (DNS) sneers 
 piece by piece the ingredients are found and assembled by HTML, CSS Deals with the presentation,   
 "SERVICE" (200 OK) Screams the chef.   
 the waiter delivers the order.  
-condiments are chosen, temperatures are tested (JS) and content is consumed.*  
+condiments are chosen, temperatures are tested (JS) and content is consumed.* 
 
 
-*Describe how HTML, CSS, and JS files are “parsed” in the browser.*
+**Describe how HTML, CSS, and JS files are “parsed” in the browser.**
 
 HTML is parsed first so the browser can find any links or script tags calling external style sheets and Javascript files from the server. 
 Browser generates...
@@ -154,28 +154,28 @@ What is the most important question to answer when designing a Website?
   
 ## Semantics.
 
-**Why should you use an <h1> element over a <span> element to display a top level heading?**
+**Why should you use an `<h1>` element over a <span> element to display a top level heading?**
   
-  Web browsers understand the inherent propertis of an <h1> tag and treat it accordingly. the <span> tag has none of these qualities and will not be 
-  interpreted in the same way even though it may look like an <h1> tag when reading the document. 
+Web browsers understand the inherent propertis of an `<h1>` tag and treat it accordingly. the <span> tag has none of these qualities and will not be 
+interpreted in the same way even though it may look like an `<h1>` tag when reading the document. 
   
 **What are the benefits of using semantic tags in our HTML?**
   
-  Semantic tags have meaning beyond what is written inside of them for displaying on the page. It helps web browsers and scereen readers to make sense of teh information and present it in the way it is intended to be used by the developer who also undertands the semantics of the tags and uses them to clearly communicate their intentions. 
+Semantic tags have meaning beyond what is written inside of them for displaying on the page. It helps web browsers and scereen readers to make sense of teh information and present it in the way it is intended to be used by the developer who also undertands the semantics of the tags and uses them to clearly communicate their intentions. 
   
 **What is JavaScript?**
   
-  Javascript implements the user interaction we are now used to online since the proliferation of social media and other interactive features associated with web2. 
+Javascript implements the user interaction we are now used to online since the proliferation of social media and other interactive features associated with web2. 
   
 **Describe 2 things that require JavaScript in the Browser?**
   
-  -Collecting data from the user - name, email, etc. 
+-Collecting data from the user - name, email, etc. 
   
 **How can you add JavaScript to an HTML document?**
   
-  Using <script> tags at the end of the body element 
+Using `<script>` tags at the end of the body element 
   
 **If you have any questions or comments from the readings, record them in your Reading Notes!**
   
-  Are there frameworks for navigting the development process from ideation to finished project taht can help new project managers / website creators to make sure they take everything they need into account? 
+Are there frameworks for navigting the development process from ideation to finished project taht can help new project managers / website creators to make sure they take everything they need into account? 
   
