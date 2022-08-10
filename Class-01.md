@@ -131,7 +131,7 @@ Meta data is information that is not displayed in the HTML document but provides
 **How is the <meta> HTML tag used when specifying metadata?**
 The <meta> tag can include information about the document character set and has attribites such as name and content which can provide details about what the HTML document is about and who wrote it. 
 
-##Miscellaneous
+## Miscellaneous
 
 How to start to design a Website.
 
@@ -150,16 +150,30 @@ What is the most important question to answer when designing a Website?
   What ***Exactly*** do I want to accomplish?
 
   
-##Semantics.
+## Semantics.
 
 **Why should you use an <h1> element over a <span> element to display a top level heading?**
   
+  Web browsers understand the inherent propertis of an <h1> tag and treat it accordingly. the <span> tag has none of these qualities and will not be 
+  interpreted in the same way even though it may look like an <h1> tag when reading the document. 
   
+**What are the benefits of using semantic tags in our HTML?**
   
-What are the benefits of using semantic tags in our HTML?
-What is JavaScript?
-
-Describe 2 things that require JavaScript in the Browser?
-How can you add JavaScript to an HTML document?
-If you have any questions or comments from the readings, record them in your Reading Notes!
+  Semantic tags have meaning beyond what is written inside of them for displaying on the page. It helps web browsers and scereen readers to make sense of teh information and present it in the way it is intended to be used by the developer who also undertands the semantics of the tags and uses them to clearly communicate their intentions. 
+  
+**What is JavaScript?**
+  
+  Javascript implements the user interaction we are now used to online since the proliferation of social media and other interactive features associated with web2. 
+  
+**Describe 2 things that require JavaScript in the Browser?**
+  
+  -Collecting data from the user - name, email, etc. 
+  
+**How can you add JavaScript to an HTML document?**
+  
+  Using <script> tags at the end of the body element 
+  
+**If you have any questions or comments from the readings, record them in your Reading Notes!**
+  
+  Are there frameworks for navigting the development process from ideation to finished project taht can help new project managers / website creators to make sure they take everything they need into account? 
   
