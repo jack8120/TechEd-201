@@ -124,20 +124,38 @@ HTML elements of a typical webpage;
 `<body></body>:` The `<body>` element. This contains all the content that displays on the page, including text, images, videos, games, playable audio tracks, or whatever else.
 
 
-How does metadata influence Search Engine Optimization?
+**How does metadata influence Search Engine Optimization?**
+Meta data is information that is not displayed in the HTML document but provides details to web browsers on how to render the document correctly. This might include information such as the <title> tag links and to external css files. 
+  
 
+**How is the <meta> HTML tag used when specifying metadata?**
+The <meta> tag can include information about the document character set and has attribites such as name and content which can provide details about what the HTML document is about and who wrote it. 
 
-
-How is the <meta> HTML tag used when specifying metadata?
-Miscellaneous
+##Miscellaneous
 
 How to start to design a Website.
 
-What is the first step to designing a Website?
+**What is the first step to designing a Website?**
+  
+Ask yourslef Why you are creating a website.
+  
+-  What exactly do I want to accomplish?
+-  How will a website help me reach my goals?
+-  What needs to be done, and in what order, to reach my goals?
+  
+This called project ideation - What is your website about?, What problem does it solve?  
+  
 What is the most important question to answer when designing a Website?
-Semantics.
+  
+  What ***Exactly*** do I want to accomplish?
 
-Why should you use an <h1> element over a <span> element to display a top level heading?
+  
+##Semantics.
+
+**Why should you use an <h1> element over a <span> element to display a top level heading?**
+  
+  
+  
 What are the benefits of using semantic tags in our HTML?
 What is JavaScript?
 
