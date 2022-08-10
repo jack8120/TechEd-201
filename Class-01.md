@@ -18,6 +18,8 @@ Hot the web works - what happens when you search for something on a browser?
 "That order comes with either existential threat or cats?" he says  
 "I'll take the cats"  
 "and what pronouns would you like with that?"  
+...
+
 The order is assigned a number and sent to the kitchen, the "chef" (DNS) sneers at the choices made and barks orders at the kitchen staff  
 piece by piece the ingredients are found and assembled by HTML, CSS Deals with the presentation,   
 "SERVICE" (200 OK) Screams the chef.   
