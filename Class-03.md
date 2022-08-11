@@ -157,7 +157,7 @@ console.log(shopping[0]);
 // returns "bread"  
 ```
   
-**List five shorthand operators for assignment in javascript and describe what they do.**
+**List seven shorthand operators for assignment in javascript and describe what they do.**
  
 |Name	|Shorthand operator	| Meaning
 |------|------------------|------------|
@@ -171,6 +171,7 @@ console.log(shopping[0]);
   
   
 **Read the code below and evaluate the last expression and explain what the result would be and why.**
+  
 ```
  let a = 10;
  let b = 'dog';
@@ -180,7 +181,13 @@ console.log(shopping[0]);
  (a + c) + b;
   ```
   
+The result would be 10 false dog.   
+  
   
 **Describe a real world example of when a conditional statement should be used in a JavaScript program.**
   
+Anywhere a simple this or that decision is to be made. If you want to get on the bus take your bus pass.   If you want to make pizza then buy the ingredients. 
+  
 **Give an example of when a Loop is useful in JavaScript.**  
+  
+A loop is usefull to complete a repetative task with less effort.     
