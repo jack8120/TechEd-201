@@ -158,16 +158,16 @@ console.log(shopping[0]);
 ```
   
 **List five shorthand operators for assignment in javascript and describe what they do.**
-------------------------------------  
+ 
 |Name	|Shorthand operator	| Meaning
-------------------------------------
-|Assignment|	x = f()	| x = f()
-|Addition assignment	| x += f() |	x = x + f()
-|Subtraction assignment	x -= f()	x = x - f()
-|Multiplication assignment	x *= f()	x = x * f()
-|Division assignment	x /= f()	x = x / f()
-|Remainder assignment	x %= f()	x = x % f()
-|Exponentiation assignment	x **= f()	x = x ** f()  
+|------|------------------|------------|
+|Assignment|	x = f()	| x = f() |
+|Addition assignment	| x += f() |	x = x + f() |
+|Subtraction assignment	| x -= f()	| x = x - f() |
+|Multiplication assignment |	x *= f() |	x = x * f() |
+|Division assignment	| x /= f() |	x = x / f() |
+|Remainder assignment	| x %= f()	| x = x % f() |
+|Exponentiation assignment |	x **= f()	| x = x ** f()  |
   
   
 **Read the code below and evaluate the last expression and explain what the result would be and why.**
