@@ -37,4 +37,25 @@ Luckily, this is an easy fix, and it's actually shorter than the inaccessible ve
 ```
   
 # [CSS Layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout)
+  
+**What is meant by [“normal flow”?](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Normal_Flow)**
+  
+Normal flow is the defult layout of how block and inline elements are displayed on a webpage before being altered with css.  
+  
+**What are a few differences between block-level and inline elements?**
+  
+A [Block-level element](https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements) occupies the entire horizontal space of its parent element (container), and vertical space equal to the height of its contents, thereby creating a "block".
+
+Browsers typically display the block-level element with a newline both before and after the element. You can visualize them as a stack of boxes.
+  
+Where as [Inline elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Inline_elements) are those which only occupy the space bounded by the tags defining the element, instead of breaking the flow of the content.
+  
+***[Static positioning](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning#static_positioning)*** **is the default for every html element.**
+  
+  
+  
+**Name a few advantages to using absolute positioning on an element.**
+  
+**What is a key difference between fixed positioning and absolute positioning?**  
+  
 
