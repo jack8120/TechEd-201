@@ -52,10 +52,18 @@ Where as [Inline elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Inl
   
 ***[Static positioning](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning#static_positioning)*** **is the default for every html element.**
   
+See link for details  
   
+**Name a few advantages to using absolute positioning on an element.**  
   
-**Name a few advantages to using absolute positioning on an element.**
+Advanatges of [absolute positioning](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning#absolute_positioning) include:
+
+-independance from the normal flow positioning.
+-Greater control over the positionong of each element in the context of its parent container.
+
   
 **What is a key difference between fixed positioning and absolute positioning?**  
+  
+[Fixed positioning](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning#fixed_positioning) fixes the position of an element in the context of the devices viewport (the section of the document visible on the screen at any one time. ensuring the element can still be seen as the content is scrolled through.   
   
 
