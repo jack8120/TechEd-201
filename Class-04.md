@@ -67,3 +67,19 @@ Advanatges of [absolute positioning](https://developer.mozilla.org/en-US/docs/Le
 [Fixed positioning](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning#fixed_positioning) fixes the position of an element in the context of the devices viewport (the section of the document visible on the screen at any one time. ensuring the element can still be seen as the content is scrolled through.   
   
 
+# [Learn JS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)  
+
+**Describe the difference between a function declaration and a function invocation.**
+
+A function declaration means the writing of the function itself - you are declaring to the computer that you have created a function and what that function does. 
+  
+Function invocation is when you call on that function to perferm its task, to carry out the function.   
+  
+**What is the difference between a parameter and an argument?**  
+  
+A parameter is a variable named in the function - a container ready to recieve data.
+An argument is the data assigned to the paramter when the function is invoked. 
+  
+Pick 2 benefits to pair programming and reflect on how these benefits could help you on your coding journey.
+  
+Working with other programmers allows you to reinforce knowledge through aggreement on best practices and also challenge comfort zones by acknowledging alternative methods to achieve outcomes.   
