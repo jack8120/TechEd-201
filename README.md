@@ -8,8 +8,8 @@
   |-----------|-----------------------------|
   |  01       | [Class 01 Notes](https://github.com/jack8120/TechEd-201/blob/main/Class-01.md)                        |
   |  02       | [Class 02 Notes](https://jack8120.github.io/TechEd-201/Class-02.md)                          |
-  |  03       |                             |
-  |  04      | []()                        |
+  |  03       | [Class 02 Notes]()                            |
+  |  04      | [Class 04 Notes](https://github.com/jack8120/TechEd-201/blob/main/Class-04.md)                        |
   |  05      |                             |
   |  06      |                             |
 
